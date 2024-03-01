@@ -1,0 +1,14 @@
+header {
+  margin: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo {
+  background: url('../../../assets/imagens/logo.svg');
+  background-size: cover;
+  height: 5rem;
+  width: 5rem;
+}
